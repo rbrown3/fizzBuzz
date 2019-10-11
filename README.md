@@ -1,8 +1,8 @@
-## FizzBuzz Practice
+# FizzBuzz Practice
 FizzBuzz is a programming task, commonly used to access
 you ability to write code. It prints out numbers 1 through 100. Any number divisible by 3 is replaced with the word "fizz". Any number divisible by 5 is replaced with the word "Buzz".
 
-##Goals
+## Goals
 
 1) Print numbers 1 through 100
 2) For each multiple of 3, print the word "fizz"
